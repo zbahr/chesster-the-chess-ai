@@ -1,0 +1,9 @@
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/build/CMakeFiles/rebuild_cache.dir
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/build/CMakeFiles/edit_cache.dir
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/build/CMakeFiles/cpp-client.dir
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/build/CMakeFiles/dependencies.dir
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/build/games/CMakeFiles/rebuild_cache.dir
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/build/games/CMakeFiles/edit_cache.dir
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/build/games/chess/CMakeFiles/rebuild_cache.dir
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/build/games/chess/CMakeFiles/edit_cache.dir
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/build/games/chess/CMakeFiles/Chess_additional.dir

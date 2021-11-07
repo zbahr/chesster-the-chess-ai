@@ -1,0 +1,1100 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../joueur/libraries/rapidjson/include/rapidjson/allocators.h
+rapidjson.h
+../joueur/libraries/rapidjson/include/rapidjson/rapidjson.h
+
+../joueur/libraries/rapidjson/include/rapidjson/document.h
+reader.h
+../joueur/libraries/rapidjson/include/rapidjson/reader.h
+internal/meta.h
+../joueur/libraries/rapidjson/include/rapidjson/internal/meta.h
+internal/strfunc.h
+../joueur/libraries/rapidjson/include/rapidjson/internal/strfunc.h
+new
+-
+string
+-
+iterator
+-
+utility
+-
+
+../joueur/libraries/rapidjson/include/rapidjson/encodings.h
+rapidjson.h
+../joueur/libraries/rapidjson/include/rapidjson/rapidjson.h
+
+../joueur/libraries/rapidjson/include/rapidjson/error/error.h
+../rapidjson.h
+../joueur/libraries/rapidjson/include/rapidjson/rapidjson.h
+
+../joueur/libraries/rapidjson/include/rapidjson/internal/biginteger.h
+../rapidjson.h
+../joueur/libraries/rapidjson/include/rapidjson/rapidjson.h
+intrin.h
+-
+
+../joueur/libraries/rapidjson/include/rapidjson/internal/diyfp.h
+../rapidjson.h
+../joueur/libraries/rapidjson/include/rapidjson/rapidjson.h
+intrin.h
+-
+
+../joueur/libraries/rapidjson/include/rapidjson/internal/ieee754.h
+../rapidjson.h
+../joueur/libraries/rapidjson/include/rapidjson/rapidjson.h
+
+../joueur/libraries/rapidjson/include/rapidjson/internal/meta.h
+../rapidjson.h
+../joueur/libraries/rapidjson/include/rapidjson/rapidjson.h
+type_traits
+-
+
+../joueur/libraries/rapidjson/include/rapidjson/internal/pow10.h
+../rapidjson.h
+../joueur/libraries/rapidjson/include/rapidjson/rapidjson.h
+
+../joueur/libraries/rapidjson/include/rapidjson/internal/stack.h
+../rapidjson.h
+../joueur/libraries/rapidjson/include/rapidjson/rapidjson.h
+
+../joueur/libraries/rapidjson/include/rapidjson/internal/strfunc.h
+../rapidjson.h
+../joueur/libraries/rapidjson/include/rapidjson/rapidjson.h
+
+../joueur/libraries/rapidjson/include/rapidjson/internal/strtod.h
+../rapidjson.h
+../joueur/libraries/rapidjson/include/rapidjson/rapidjson.h
+ieee754.h
+../joueur/libraries/rapidjson/include/rapidjson/internal/ieee754.h
+biginteger.h
+../joueur/libraries/rapidjson/include/rapidjson/internal/biginteger.h
+diyfp.h
+../joueur/libraries/rapidjson/include/rapidjson/internal/diyfp.h
+pow10.h
+../joueur/libraries/rapidjson/include/rapidjson/internal/pow10.h
+
+../joueur/libraries/rapidjson/include/rapidjson/msinttypes/inttypes.h
+stdint.h
+../joueur/libraries/rapidjson/include/rapidjson/msinttypes/stdint.h
+inttypes.h
+-
+
+../joueur/libraries/rapidjson/include/rapidjson/msinttypes/stdint.h
+stdint.h
+-
+limits.h
+-
+wchar.h
+-
+
+../joueur/libraries/rapidjson/include/rapidjson/rapidjson.h
+cstdlib
+-
+cstring
+-
+rapidjson/...
+../joueur/libraries/rapidjson/include/rapidjson/rapidjson/...
+msinttypes/stdint.h
+../joueur/libraries/rapidjson/include/rapidjson/msinttypes/stdint.h
+msinttypes/inttypes.h
+../joueur/libraries/rapidjson/include/rapidjson/msinttypes/inttypes.h
+stdint.h
+-
+inttypes.h
+-
+endian.h
+-
+rapidjson/...
+../joueur/libraries/rapidjson/include/rapidjson/rapidjson/...
+cassert
+-
+allocators.h
+../joueur/libraries/rapidjson/include/rapidjson/allocators.h
+encodings.h
+../joueur/libraries/rapidjson/include/rapidjson/encodings.h
+
+../joueur/libraries/rapidjson/include/rapidjson/reader.h
+rapidjson.h
+../joueur/libraries/rapidjson/include/rapidjson/rapidjson.h
+encodings.h
+../joueur/libraries/rapidjson/include/rapidjson/encodings.h
+internal/meta.h
+../joueur/libraries/rapidjson/include/rapidjson/internal/meta.h
+internal/stack.h
+../joueur/libraries/rapidjson/include/rapidjson/internal/stack.h
+internal/strtod.h
+../joueur/libraries/rapidjson/include/rapidjson/internal/strtod.h
+intrin.h
+-
+nmmintrin.h
+-
+emmintrin.h
+-
+stdexcept
+-
+rapidjson/error/error.h
+../joueur/libraries/rapidjson/include/rapidjson/rapidjson/error/error.h
+rapidjson/reader.h
+../joueur/libraries/rapidjson/include/rapidjson/rapidjson/reader.h
+error/error.h
+../joueur/libraries/rapidjson/include/rapidjson/error/error.h
+
+../joueur/libraries/tclap/include/tclap/Arg.h
+config.h
+-
+string
+-
+vector
+-
+list
+-
+iostream
+-
+iomanip
+-
+cstdio
+-
+sstream
+-
+strstream
+-
+tclap/ArgException.h
+-
+tclap/Visitor.h
+-
+tclap/CmdLineInterface.h
+-
+tclap/ArgTraits.h
+-
+tclap/StandardTraits.h
+-
+
+../joueur/libraries/tclap/include/tclap/ArgException.h
+string
+-
+exception
+-
+
+../joueur/libraries/tclap/include/tclap/ArgTraits.h
+
+../joueur/libraries/tclap/include/tclap/CmdLine.h
+tclap/SwitchArg.h
+-
+tclap/MultiSwitchArg.h
+-
+tclap/UnlabeledValueArg.h
+-
+tclap/UnlabeledMultiArg.h
+-
+tclap/XorHandler.h
+-
+tclap/HelpVisitor.h
+-
+tclap/VersionVisitor.h
+-
+tclap/IgnoreRestVisitor.h
+-
+tclap/CmdLineOutput.h
+-
+tclap/StdOutput.h
+-
+tclap/Constraint.h
+-
+tclap/ValuesConstraint.h
+-
+string
+-
+vector
+-
+list
+-
+iostream
+-
+iomanip
+-
+algorithm
+-
+stdlib.h
+-
+
+../joueur/libraries/tclap/include/tclap/CmdLineInterface.h
+string
+-
+vector
+-
+list
+-
+iostream
+-
+algorithm
+-
+
+../joueur/libraries/tclap/include/tclap/CmdLineOutput.h
+string
+-
+vector
+-
+list
+-
+iostream
+-
+iomanip
+-
+algorithm
+-
+
+../joueur/libraries/tclap/include/tclap/Constraint.h
+string
+-
+vector
+-
+list
+-
+iostream
+-
+iomanip
+-
+algorithm
+-
+
+../joueur/libraries/tclap/include/tclap/HelpVisitor.h
+tclap/CmdLineInterface.h
+-
+tclap/CmdLineOutput.h
+-
+tclap/Visitor.h
+-
+
+../joueur/libraries/tclap/include/tclap/IgnoreRestVisitor.h
+tclap/Visitor.h
+-
+tclap/Arg.h
+-
+
+../joueur/libraries/tclap/include/tclap/MultiArg.h
+string
+-
+vector
+-
+tclap/Arg.h
+-
+tclap/Constraint.h
+-
+
+../joueur/libraries/tclap/include/tclap/MultiSwitchArg.h
+string
+-
+vector
+-
+tclap/SwitchArg.h
+-
+
+../joueur/libraries/tclap/include/tclap/OptionalUnlabeledTracker.h
+string
+-
+
+../joueur/libraries/tclap/include/tclap/StandardTraits.h
+config.h
+-
+
+../joueur/libraries/tclap/include/tclap/StdOutput.h
+string
+-
+vector
+-
+list
+-
+iostream
+-
+algorithm
+-
+tclap/CmdLineInterface.h
+-
+tclap/CmdLineOutput.h
+-
+tclap/XorHandler.h
+-
+tclap/Arg.h
+-
+
+../joueur/libraries/tclap/include/tclap/SwitchArg.h
+string
+-
+vector
+-
+tclap/Arg.h
+-
+
+../joueur/libraries/tclap/include/tclap/UnlabeledMultiArg.h
+string
+-
+vector
+-
+tclap/MultiArg.h
+-
+tclap/OptionalUnlabeledTracker.h
+-
+
+../joueur/libraries/tclap/include/tclap/UnlabeledValueArg.h
+string
+-
+vector
+-
+tclap/ValueArg.h
+-
+tclap/OptionalUnlabeledTracker.h
+-
+
+../joueur/libraries/tclap/include/tclap/ValueArg.h
+string
+-
+vector
+-
+tclap/Arg.h
+-
+tclap/Constraint.h
+-
+
+../joueur/libraries/tclap/include/tclap/ValuesConstraint.h
+string
+-
+vector
+-
+tclap/Constraint.h
+-
+config.h
+-
+sstream
+-
+strstream
+-
+
+../joueur/libraries/tclap/include/tclap/VersionVisitor.h
+tclap/CmdLineInterface.h
+-
+tclap/CmdLineOutput.h
+-
+tclap/Visitor.h
+-
+
+../joueur/libraries/tclap/include/tclap/Visitor.h
+
+../joueur/libraries/tclap/include/tclap/XorHandler.h
+tclap/Arg.h
+-
+string
+-
+vector
+-
+algorithm
+-
+iostream
+-
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/ai.cpp
+ai.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/ai.hpp
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/ai.hpp
+impl/chess.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/impl/chess.hpp
+game.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/game.hpp
+game_object.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/game_object.hpp
+move.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/move.hpp
+piece.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/piece.hpp
+player.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/player.hpp
+../../joueur/src/base_ai.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/base_ai.hpp
+../../joueur/src/attr_wrapper.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/attr_wrapper.hpp
+cstdlib
+-
+ctime
+-
+vector
+-
+map
+-
+queue
+-
+tuple
+-
+iterator
+-
+cctype
+-
+climits
+-
+algorithm
+-
+state.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/state.hpp
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/game.cpp
+game.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/game.hpp
+../../joueur/src/base_ai.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/base_ai.hpp
+../../joueur/src/any.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/any.hpp
+../../joueur/src/exceptions.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/exceptions.hpp
+../../joueur/src/delta.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/delta.hpp
+game_object.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/game_object.hpp
+move.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/move.hpp
+piece.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/piece.hpp
+player.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/player.hpp
+impl/chess.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/impl/chess.hpp
+type_traits
+-
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/game.hpp
+vector
+-
+queue
+-
+deque
+-
+unordered_map
+-
+string
+-
+initializer_list
+-
+../../joueur/src/any.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/any.hpp
+../../joueur/src/base_game.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/base_game.hpp
+impl/chess_fwd.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/impl/chess_fwd.hpp
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/game_object.cpp
+game_object.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/game_object.hpp
+../../joueur/src/base_ai.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/base_ai.hpp
+../../joueur/src/any.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/any.hpp
+../../joueur/src/exceptions.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/exceptions.hpp
+../../joueur/src/delta.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/delta.hpp
+game_object.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/game_object.hpp
+move.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/move.hpp
+piece.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/piece.hpp
+player.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/player.hpp
+impl/chess.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/impl/chess.hpp
+type_traits
+-
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/game_object.hpp
+vector
+-
+queue
+-
+deque
+-
+unordered_map
+-
+string
+-
+initializer_list
+-
+../../joueur/src/any.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/any.hpp
+../../joueur/src/base_object.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/base_object.hpp
+impl/chess_fwd.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/impl/chess_fwd.hpp
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/impl/ai_impl.cpp
+../ai.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/ai.hpp
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/impl/chess.cpp
+chess.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/impl/chess.hpp
+../../../joueur/src/register.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/register.hpp
+../../../joueur/src/exceptions.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/exceptions.hpp
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/impl/chess.hpp
+../../../joueur/src/base_game.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/base_game.hpp
+../ai.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/ai.hpp
+../../../joueur/src/any.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/any.hpp
+../game.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/game.hpp
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/impl/chess_fwd.hpp
+memory
+-
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/impl/game_impl.cpp
+../game.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/game.hpp
+../../../joueur/src/base_ai.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/base_ai.hpp
+../../../joueur/src/any.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/any.hpp
+../../../joueur/src/exceptions.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/exceptions.hpp
+../../../joueur/src/delta.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/delta.hpp
+../game_object.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/game_object.hpp
+../move.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/move.hpp
+../piece.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/piece.hpp
+../player.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/player.hpp
+chess.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/impl/chess.hpp
+type_traits
+-
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/impl/game_object_impl.cpp
+../game_object.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/game_object.hpp
+../../../joueur/src/base_ai.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/base_ai.hpp
+../../../joueur/src/any.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/any.hpp
+../../../joueur/src/exceptions.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/exceptions.hpp
+../../../joueur/src/delta.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/delta.hpp
+../game_object.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/game_object.hpp
+../move.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/move.hpp
+../piece.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/piece.hpp
+../player.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/player.hpp
+chess.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/impl/chess.hpp
+type_traits
+-
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/impl/move_impl.cpp
+../move.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/move.hpp
+../../../joueur/src/base_ai.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/base_ai.hpp
+../../../joueur/src/any.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/any.hpp
+../../../joueur/src/exceptions.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/exceptions.hpp
+../../../joueur/src/delta.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/delta.hpp
+../game_object.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/game_object.hpp
+../move.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/move.hpp
+../piece.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/piece.hpp
+../player.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/player.hpp
+chess.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/impl/chess.hpp
+type_traits
+-
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/impl/piece_impl.cpp
+../piece.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/piece.hpp
+../../../joueur/src/base_ai.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/base_ai.hpp
+../../../joueur/src/any.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/any.hpp
+../../../joueur/src/exceptions.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/exceptions.hpp
+../../../joueur/src/delta.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/delta.hpp
+../game_object.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/game_object.hpp
+../move.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/move.hpp
+../piece.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/piece.hpp
+../player.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/player.hpp
+chess.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/impl/chess.hpp
+type_traits
+-
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/impl/player_impl.cpp
+../player.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/player.hpp
+../../../joueur/src/base_ai.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/base_ai.hpp
+../../../joueur/src/any.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/any.hpp
+../../../joueur/src/exceptions.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/exceptions.hpp
+../../../joueur/src/delta.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/delta.hpp
+../game_object.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/game_object.hpp
+../move.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/move.hpp
+../piece.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/piece.hpp
+../player.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/player.hpp
+chess.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/impl/chess.hpp
+type_traits
+-
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/move.cpp
+move.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/move.hpp
+../../joueur/src/base_ai.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/base_ai.hpp
+../../joueur/src/any.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/any.hpp
+../../joueur/src/exceptions.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/exceptions.hpp
+../../joueur/src/delta.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/delta.hpp
+game_object.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/game_object.hpp
+move.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/move.hpp
+piece.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/piece.hpp
+player.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/player.hpp
+impl/chess.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/impl/chess.hpp
+type_traits
+-
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/move.hpp
+vector
+-
+queue
+-
+deque
+-
+unordered_map
+-
+string
+-
+initializer_list
+-
+../../joueur/src/any.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/any.hpp
+game_object.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/game_object.hpp
+impl/chess_fwd.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/impl/chess_fwd.hpp
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/piece.cpp
+piece.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/piece.hpp
+../../joueur/src/base_ai.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/base_ai.hpp
+../../joueur/src/any.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/any.hpp
+../../joueur/src/exceptions.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/exceptions.hpp
+../../joueur/src/delta.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/delta.hpp
+game_object.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/game_object.hpp
+move.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/move.hpp
+piece.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/piece.hpp
+player.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/player.hpp
+impl/chess.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/impl/chess.hpp
+type_traits
+-
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/piece.hpp
+vector
+-
+queue
+-
+deque
+-
+unordered_map
+-
+string
+-
+initializer_list
+-
+../../joueur/src/any.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/any.hpp
+game_object.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/game_object.hpp
+impl/chess_fwd.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/impl/chess_fwd.hpp
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/player.cpp
+player.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/player.hpp
+../../joueur/src/base_ai.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/base_ai.hpp
+../../joueur/src/any.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/any.hpp
+../../joueur/src/exceptions.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/exceptions.hpp
+../../joueur/src/delta.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/delta.hpp
+game_object.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/game_object.hpp
+move.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/move.hpp
+piece.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/piece.hpp
+player.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/player.hpp
+impl/chess.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/impl/chess.hpp
+type_traits
+-
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/player.hpp
+vector
+-
+queue
+-
+deque
+-
+unordered_map
+-
+string
+-
+initializer_list
+-
+../../joueur/src/any.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/any.hpp
+game_object.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/game_object.hpp
+impl/chess_fwd.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/impl/chess_fwd.hpp
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/state.cpp
+ai.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/ai.hpp
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/state.hpp
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/state2.cpp
+ai.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/games/chess/ai.hpp
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/any.hpp
+base_object.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/base_object.hpp
+typeinfo
+-
+memory
+-
+type_traits
+-
+iostream
+-
+string
+-
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/attr_wrapper.hpp
+rapidjson/document.h
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/rapidjson/document.h
+iostream
+-
+string
+-
+cstdint
+-
+stdexcept
+-
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/base_ai.cpp
+base_ai.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/base_ai.hpp
+sgr.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/sgr.hpp
+iostream
+-
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/base_ai.hpp
+any.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/any.hpp
+string
+-
+vector
+-
+unordered_map
+-
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/base_game.cpp
+base_game.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/base_game.hpp
+base_ai.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/base_ai.hpp
+delta.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/delta.hpp
+attr_wrapper.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/attr_wrapper.hpp
+base_object.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/base_object.hpp
+any.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/any.hpp
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/base_game.hpp
+connection.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/connection.hpp
+delta_mergable.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/delta_mergable.hpp
+memory
+-
+string
+-
+unordered_map
+-
+string
+-
+rapidjson/document.h
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/rapidjson/document.h
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/base_object.cpp
+base_object.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/base_object.hpp
+any.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/any.hpp
+base_ai.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/base_ai.hpp
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/base_object.hpp
+vector
+-
+string
+-
+unordered_map
+-
+initializer_list
+-
+utility
+-
+iostream
+-
+typeindex
+-
+sgr.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/sgr.hpp
+delta_mergable.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/delta_mergable.hpp
+base_game.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/base_game.hpp
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/connection.cpp
+connection.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/connection.hpp
+exceptions.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/exceptions.hpp
+sgr.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/sgr.hpp
+windows_connection.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/windows_connection.hpp
+unix_connection.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/unix_connection.hpp
+array
+-
+iostream
+-
+chrono
+-
+thread
+-
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/connection.hpp
+memory
+-
+string
+-
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/delta.cpp
+delta.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/delta.hpp
+attr_wrapper.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/attr_wrapper.hpp
+exceptions.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/exceptions.hpp
+any.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/any.hpp
+base_game.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/base_game.hpp
+base_ai.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/base_ai.hpp
+base_object.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/base_object.hpp
+delta_mergable.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/delta_mergable.hpp
+sgr.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/sgr.hpp
+cstring
+-
+iostream
+-
+unordered_map
+-
+vector
+-
+string
+-
+algorithm
+-
+iterator
+-
+tuple
+-
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/delta.hpp
+rapidjson/document.h
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/rapidjson/document.h
+any.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/any.hpp
+exceptions.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/exceptions.hpp
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/delta_mergable.cpp
+delta_mergable.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/delta_mergable.hpp
+any.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/any.hpp
+base_ai.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/base_ai.hpp
+base_object.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/base_object.hpp
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/delta_mergable.hpp
+exceptions.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/exceptions.hpp
+string
+-
+unordered_map
+-
+vector
+-
+memory
+-
+ostream
+-
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/exceptions.hpp
+stdexcept
+-
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/main.cpp
+tclap/CmdLine.h
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/tclap/CmdLine.h
+attr_wrapper.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/attr_wrapper.hpp
+register.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/register.hpp
+sgr.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/sgr.hpp
+connection.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/connection.hpp
+base_game.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/base_game.hpp
+base_ai.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/base_ai.hpp
+exception
+-
+iostream
+-
+csignal
+-
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/register.cpp
+register.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/register.hpp
+exceptions.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/exceptions.hpp
+base_game.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/base_game.hpp
+base_ai.hpp
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/base_ai.hpp
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/register.hpp
+memory
+-
+unordered_map
+-
+string
+-
+algorithm
+-
+functional
+-
+cctype
+-
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/sgr.hpp
+iostream
+-
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/unix_connection.hpp
+sys/types.h
+-
+sys/socket.h
+-
+netdb.h
+-
+unistd.h
+-
+netinet/in.h
+-
+string
+-
+array
+-
+cstring
+-
+
+/Users/zachary/Desktop/CS 5400/Git Repositories - Game Series/2018-sp-a-game-4-zjb998/Joueur.cpp/joueur/src/windows_connection.hpp
+string
+-
+array
+-
+winsock2.h
+-
+ws2tcpip.h
+-
+
