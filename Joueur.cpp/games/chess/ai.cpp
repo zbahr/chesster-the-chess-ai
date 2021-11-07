@@ -78,7 +78,7 @@ std::string AI::get_name() const
 {
     // <<-- Creer-Merge: get-name -->> - Code you add between this comment and the end comment will be preserved between Creer re-runs.
     // REPLACE WITH YOUR TEAM NAME!
-    return "Daenerys Targaryen";
+    return "Chesster";
     // <<-- /Creer-Merge: get-name -->>
 }
 
